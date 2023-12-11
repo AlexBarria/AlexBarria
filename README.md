@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alex, I'm an electronic engineer specializing in artificial intelligence. Currently, I work as a machine learning engineer and also hold a position as a professor in the AI specialization at the University of Buenos Aires. I have a strong passion for research and keeping up-to-date with the latest technologies 🚀.
+My name is Alex, I'm an electronic engineer specializing in artificial intelligence and Edge Computing magister candidate. Currently, I work as a machine learning engineer and also hold a position as a professor in the AI specialization at the University of Buenos Aires. I have a strong passion for research and keeping up-to-date with the latest technologies 🚀.
 
 ### Technical Skills 🛠
 
